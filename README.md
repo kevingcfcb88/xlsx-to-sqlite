@@ -1,7 +1,3 @@
-Certainly! Here’s a sample README file for the project `xlsx-to-sqlite`, which is designed to convert Excel files to SQLite databases.
-
----
-
 # xlsx-to-sqlite
 
 `xlsx-to-sqlite` is a Python tool that converts Excel (`.xlsx`) files into SQLite databases. This project provides an easy way to import data from Excel spreadsheets into a SQLite database, allowing for efficient data management and querying.
